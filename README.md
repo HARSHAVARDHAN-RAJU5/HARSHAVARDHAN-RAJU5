@@ -4,13 +4,9 @@
 
 <p align="center"><i>"Whatever happens, happens."</i></p>
 
-## Hey, I'm Havn 👋
+## Hey, I'm Havn 🏄
 
 AI engineer (class of 2026). I build multi-agent systems and LLM pipelines.
-
-- **Open to AI / backend roles** · Bangalore or remote
-- **Happy to collaborate on open source and take on contract work**
-- [harshahv5rm@gmail.com](mailto:harshahv5rm@gmail.com) · [LinkedIn](https://linkedin.com/in/harshavardhan-r-) · [X](https://x.com/harshahv5rm)
 
 ---
 
@@ -21,6 +17,12 @@ AI engineer (class of 2026). I build multi-agent systems and LLM pipelines.
 **[o2c](https://github.com/HARSHAVARDHAN-RAJU5/o2c)** — SAP Order-to-Cash as a graph you can question in plain English. Spots broken order flows and streams answers live.
 
 **[stickermule](https://github.com/HARSHAVARDHAN-RAJU5/stickermule)** — Checks customer artwork before print. Deterministic rules decide, not the model. 39 labelled test files, 80 tests.
+
+---
+
+## 🔀 Contributed to
+
+[memanto](https://github.com/moorcheh-ai/memanto) · [graphify](https://github.com/Graphify-Labs/graphify) · [litellm](https://github.com/BerriAI/litellm)
 
 ---
 
@@ -36,6 +38,6 @@ AI engineer (class of 2026). I build multi-agent systems and LLM pipelines.
 
 ---
 
-## 🔀 Contributed to
-
-[memanto](https://github.com/moorcheh-ai/memanto) · [graphify](https://github.com/Graphify-Labs/graphify) · [litellm](https://github.com/BerriAI/litellm)
+- **Open to AI / backend roles** · Bangalore or remote
+- **Happy to collaborate on open source and take on contract work**
+- [harshahv5rm@gmail.com](mailto:harshahv5rm@gmail.com) · [LinkedIn](https://linkedin.com/in/harshavardhan-r-) · [X](https://x.com/harshahv5rm)
