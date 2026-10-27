@@ -4,25 +4,13 @@
 
 <p align="center"><i>"Whatever happens, happens."</i></p>
 
-## Hey, I'm Harsha 👋
+## Hey, I'm Havn 👋
 
 AI engineer (class of 2026). I build multi-agent systems and LLM pipelines.
 
-- 🔍 **Open to AI / backend roles** · Bangalore or remote
-- 🤝 **Happy to collaborate on open source and take on contract work**
-- 📫 [harshahv5rm@gmail.com](mailto:harshahv5rm@gmail.com) · [LinkedIn](https://linkedin.com/in/harshavardhan-r-)
-
----
-
-## 🔀 Merged open source
-
-| Project | Contribution |
-|---|---|
-| [memanto #2107](https://github.com/moorcheh-ai/memanto/pull/2107) | MCP setup for Claude Code, Codex and Cursor |
-| [memanto #2036](https://github.com/moorcheh-ai/memanto/pull/2036) | Security fix for shared memory namespaces |
-| [memanto #2116](https://github.com/moorcheh-ai/memanto/pull/2116) | Docker packaging for MCP registries |
-| [graphify #3529](https://github.com/Graphify-Labs/graphify/pull/3529) | Bug fix with 7 tests, shipped in [v0.9.62](https://github.com/Graphify-Labs/graphify/releases/tag/v0.9.62) |
-| [litellm #48377](https://github.com/BerriAI/litellm/issues/48377) | Bug report, fixed upstream |
+- **Open to AI / backend roles** · Bangalore or remote
+- **Happy to collaborate on open source and take on contract work**
+- [harshahv5rm@gmail.com](mailto:harshahv5rm@gmail.com) · [LinkedIn](https://linkedin.com/in/harshavardhan-r-) · [X](https://x.com/harshahv5rm)
 
 ---
 
@@ -45,3 +33,9 @@ AI engineer (class of 2026). I build multi-agent systems and LLM pipelines.
 ## Also
 
 - Edge AI: deployed segmentation models (SegFormer, DeepLabV3+) on Qualcomm QCS6490
+
+---
+
+## 🔀 Contributed to
+
+[memanto](https://github.com/moorcheh-ai/memanto) · [graphify](https://github.com/Graphify-Labs/graphify) · [litellm](https://github.com/BerriAI/litellm)
