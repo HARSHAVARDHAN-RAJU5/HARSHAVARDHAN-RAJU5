@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="40" viewBox="0 0 830 40"><rect width="830" height="40" fill="#0b0b0b"/>
+<g transform="rotate(-3 76.0 20)"><rect x="12" y="7" width="124" height="26" fill="#efe6d2"/>
+<text x="74.0" y="26" text-anchor="middle" font-family="Rockwell, 'Roboto Slab', 'Courier New', serif" font-weight="900" font-size="15" fill="#0b0b0b" letter-spacing="2">CASE FILE</text></g>
+<text x="154" y="28" font-family="Impact, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-style="italic" font-size="21" fill="#f4f4f4" letter-spacing="1.5">TEARDOWNS</text>
+<text x="814" y="26" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="13" fill="#a8a8a8">SESSION #02 · reading other people’s code</text>
+<circle cx="814" cy="6" r="0"/><rect y="38" height="2" width="90" fill="#efe6d2" opacity=".9"><animate attributeName="x" values="-90;830;-90" dur="7s" repeatCount="indefinite"/></rect></svg>
