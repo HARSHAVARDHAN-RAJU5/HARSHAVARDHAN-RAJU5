@@ -6,7 +6,9 @@
 
 </div>
 
-## Hey, I'm Havn 🏄
+## Hey, I'm Havn
+
+<img src="surf.gif" alt="Surfing a barrel" width="200" align="right">
 
 AI engineer (class of 2026) at **Nunnari Labs**, Coimbatore.
 
