@@ -24,7 +24,7 @@ I dream at 1M-user scale, then remind myself to just ship the small thing first.
 - **[agent-lineup](https://github.com/HARSHAVARDHAN-RAJU5/agent-lineup)**: tells you what your coding agent changed after a run, and flags risky edits before you commit.
 - **[Orchestara](https://github.com/HARSHAVARDHAN-RAJU5/ap-state-orchestara)**: invoice processing as a 14-stage state machine. LLMs are workers, not decision makers. Published at IJSART.
 - **Edge AI @ Nunnari Labs**: getting segmentation models running fast on Qualcomm hardware for assistive navigation.
-- **Open source**: built the MCP setup behind `memanto connect` (Claude Code, Codex, Cursor).
+- **Open source**: built the [MCP setup](https://github.com/moorcheh-ai/memanto/pull/2107) behind `memanto connect` in [memanto](https://github.com/moorcheh-ai/memanto) (Claude Code, Codex, Cursor).
 
 
 <img src="assets/teardowns.svg" alt="Teardowns" width="100%">
@@ -34,7 +34,7 @@ I dream at 1M-user scale, then remind myself to just ship the small thing first.
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/harshavardhan-r-) · [Email](mailto:harshahv5rm@gmail.com)
+[LinkedIn](https://linkedin.com/in/harshavardhan-r-) · [X](https://x.com/harshahv5rm) · [Reddit](https://www.reddit.com/user/Several-Coyote3534/) · [Discord](https://discord.com/users/754005750388359331) · [Email](mailto:harshahv5rm@gmail.com)
 
 <sub>See you around, cowboy.</sub>
 
