@@ -12,7 +12,7 @@
 
 AI engineer (class of 2026) at **Nunnari Labs**, Coimbatore.
 
-I'm the guy whose interests change every few months. Startups, edge AI, agents, open source, surfing. I go all in, then something new catches my eye.
+I'm the guy whose interests change every few months. Startups, edge AI, agents, open source, surfing. I&nbsp;go all in, then something new catches my eye.
 
 Right now it's AI agents and reading other people's code, and honestly, I'm loving it.
 
